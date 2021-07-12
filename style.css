@@ -55,13 +55,13 @@ body {
 
 .title {
   font: 700 var(--title-font-size) var(--title-font);
-  color: var(--title-color);
+  color: #aa3895;
   -webkit-font-smoothing: auto;
 }
 
 .button {
-  background-color: var(--base-color);
-  color: var(--text-color-light);
+  background-color: #aa3895;
+  color: #fcfcfc;
   height: 3.5rem;
   display: inline-flex;
   align-items: center;
@@ -72,7 +72,7 @@ body {
 }
 
 .button:hover {
-  background: var(--base-color-alt);
+  background: #7c176a;
 }
 
 .divider-1 {
@@ -121,7 +121,7 @@ body {
 }
 
 .section header strong {
-  color: var(--base-color);
+  color: #aa3895;
 }
 
 #header {
@@ -148,7 +148,7 @@ body {
 }
 
 .logo span {
-  color: var(--base-color);
+  color: #aa3895;
 }
 
 .logo-alt span {
@@ -212,7 +212,7 @@ nav.show .menu {
   opacity: 1;
   visibility: visible;
 
-  background: var(--body-color);
+  background: #aa3895;
 
   height: 100vh;
   width: 100vw;
@@ -274,7 +274,7 @@ nav.show div.icon-close {
   content: "";
   height: 100%;
   width: 100%;
-  background: var(--base-color-second);
+  background: #aa3895;
   position: absolute;
   top: -16.8%;
   left: 16.7%;
