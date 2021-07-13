@@ -368,36 +368,36 @@ nav.show div.icon-close {
   margin-bottom: 0.75rem;
 }
 
-/*====  TESTIMONIALS ============================ */
-#testimonials {
+/*====  Delivery ============================ */
+#entregas {
   background: white;
 }
 
-#testimonials .container {
+#entregas .container {
   margin-left: 0;
   margin-right: 0;
 }
 
-#testimonials header {
+#entregas header {
   margin-left: 1.5rem;
   margin-right: 1.5rem;
   margin-bottom: 0;
 }
 
-#testimonials blockquote {
+#entregas blockquote {
   padding: 2rem;
   box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
   border-radius: 0.25rem;
 }
 
-#testimonials blockquote p {
+#entregas blockquote p {
   position: relative;
   text-indent: 1.875rem;
   margin-bottom: 1.5rem;
   color: var(--title-color);
 }
 
-#testimonials blockquote p span {
+#entregas blockquote p span {
   font: 700 2.5rem serif;
   position: absolute;
   top: -0.375rem;
@@ -405,13 +405,13 @@ nav.show div.icon-close {
   color: var(--base-color);
 }
 
-#testimonials cite {
+#entregas cite {
   display: flex;
   align-items: center;
   font-style: normal;
 }
 
-#testimonials cite img {
+#entregas cite img {
   width: 2rem;
   height: 2rem;
   object-fit: cover;
@@ -543,7 +543,7 @@ footer .social a:hover {
   }
 
   .section header,
-  #testimonials header {
+  #entregas header {
     max-width: 32rem;
     text-align: center;
     margin-left: auto;
@@ -618,8 +618,8 @@ footer .social a:hover {
     padding-right: 3rem;
   }
 
-  /* testimonials */
-  #testimonials .container {
+  /* entregas */
+  #entregas .container {
     margin-left: auto;
     margin-right: auto;
   }
